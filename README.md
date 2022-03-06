@@ -1,4 +1,6 @@
-# hello-world
-- My `first` repository
-- My `first` repository
-- My `first` repository
+#include <stdio.h>
+main()
+{
+    printf("Hello World\n");
+    printf("idiot Dongfeifan\n");
+}
