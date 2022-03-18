@@ -3,6 +3,6 @@
 main()
 {
     printf("Hello World\n");
-    printf("Idiot Dongfeifan（非凡哥）\n");
+    printf("Idiot Golden_Godsun（嘎得尚）\n");
 }
 ```
